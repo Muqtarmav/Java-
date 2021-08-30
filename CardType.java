@@ -2,7 +2,7 @@ package Estore;
 
 public enum CardType {
     MASTERCARD,
-    VISACARD,
+    VISA_CARD,
     VERVE,
-    AMERICAEXPRESS,
+    AMERICA_EXPRESS,
 }
